@@ -38,6 +38,9 @@ h2.logo {
     justify-content: center;
     align-items: center;
     font-weight: bold;
+    position: absolute; 
+    left: 0%;
+    top: -30px;
 }
 
 h2.logo a {
@@ -88,6 +91,9 @@ footer {
     color: white;
     text-align: center;
     padding: 1rem;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
 }
 
 /* Hyperlink Styling */
